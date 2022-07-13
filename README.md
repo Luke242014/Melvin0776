@@ -2,6 +2,6 @@
 Web Developer, Game Developer & Bot Developer :3
 
 ![Discord Status](https://dev.discordprofiles.me/badge/status/884775862250123305)
-![Discord Playing Status](https://dev.discordprofiles.me/badge/playing/884775862250123305?logo=discord)
+![Discord Playing Status](https://dev.discordprofiles.me/badge/playing/884775862250123305)
 ![Discord Coding Status](https://dev.discordprofiles.me/badge/vscode/884775862250123305)
 ![ko-fi](https://img.shields.io/badge/support-me-FF5E5B?logo=ko-fi)
